@@ -14,6 +14,25 @@
 
 ---
 
+## ⭐ Featured Projects:
+### 🧑‍💻 Personal CV Website
+📄 A personal portfolio website built with HTML & CSS to showcase my profile and skills.  
+🔗 https://github.com/Lucasruizg/CV_LucasRuiz  
+
+---
+
+### 🌍 Travel Dashboard
+📊 Interactive dashboard that displays travel-related data dynamically using JavaScript.  
+🔗 https://github.com/Lucasruizg/Travel_Dashboard  
+
+---
+
+### 🎁 RealityBox
+🎲 Web application simulating mystery boxes with probabilities, rewards system and dynamic logic.  
+🔗 https://github.com/Lucasruizg/RealityBox  
+
+---
+
 ## 🚀 Projects:
 - 🔧 DNS + DHCP lab (Linux + Windows Server)
 - 🔐 HTTPS server with self-signed certificates
