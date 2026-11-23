@@ -1,7 +1,7 @@
-![LUCAS RUIZ · ASIX · Redes y sistemas](assets/portada-recreativa.png)
+<img src="assets/portada-recreativa.png" width="760" alt="LUCAS RUIZ · ASIX · Redes y sistemas">
 
 <!-- Cuando MISIÓN RED tenga una demo pública verificada, enlázala como primera acción y coloca su cartucho al inicio de Proyectos. -->
-[**▸ RealityBox**](#realitybox) · [**Proyectos**](#proyectos) · [**CV**](https://lucas-ashy.vercel.app/) · [**Contacto**](#contacto)
+[**▸ RealityBox**](https://github.com/Lucasruizg/RealityBox#instalacion) · [**Proyectos**](#proyectos) · [**CV**](https://lucas-ashy.vercel.app/) · [**Contacto**](#contacto)
 
 Estudio ASIX y hago mi formación dual en Telefónica.<br>
 Allí he trabajado con routers Teldat, VLAN y montajes en rack.
