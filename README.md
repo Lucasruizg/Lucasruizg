@@ -1,6 +1,6 @@
 <img src="assets/portada-recreativa.png" width="760" alt="LUCAS RUIZ · ASIX · Redes y sistemas">
 
-<!-- Cuando MISIÓN RED tenga una demo pública verificada, enlázala como primera acción y coloca su cartucho al inicio de Proyectos. -->
+<!-- Cuando MISIÓN RED tenga una demo pública verificada, enlázala como primera acción y coloca su cartucho al inicio de Proyectos. Añade PING & PONG y RACK CHECK en cuanto estén publicados en sus repositorios. -->
 [**▸ RealityBox**](https://github.com/Lucasruizg/RealityBox#instalacion) · [**Proyectos**](#proyectos) · [**CV**](https://lucas-ashy.vercel.app/) · [**Contacto**](#contacto)
 
 Estudio ASIX y hago mi formación dual en Telefónica.<br>
@@ -14,7 +14,7 @@ Allí he trabajado con routers Teldat, VLAN y montajes en rack.
 
 Tienda de cajas sorpresa en Laravel. Abre cajas con saldo de prueba y guarda los premios en tu inventario.
 
-[**Abrir RealityBox y ver cómo probarlo en local**](https://github.com/Lucasruizg/RealityBox#instalacion)
+[**Probar RealityBox en local**](https://github.com/Lucasruizg/RealityBox#instalacion) · [Ver captura del catálogo](assets/realitybox-catalogo.png)
 
 ### Travel Dashboard
 
@@ -22,7 +22,7 @@ Tienda de cajas sorpresa en Laravel. Abre cajas con saldo de prueba y guarda los
 
 Consulta el tiempo en la ciudad que elijas y convierte euros a su moneda local.
 
-[**Abrir Travel Dashboard**](https://travel-dashboard-amber-phi.vercel.app/)
+[**Abrir Travel Dashboard**](https://travel-dashboard-amber-phi.vercel.app/) · [Ver captura del panel](assets/travel-panel.png)
 
 ## Tecnologías
 
