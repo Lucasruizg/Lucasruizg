@@ -1,6 +1,6 @@
 <img src="assets/marquesina-arcade.svg" width="720" alt="LUCAS RUIZ · ASIX · Redes y sistemas">
 
-[**▸ Proyectos**](#proyectos) · [**CV**](https://lucas-ashy.vercel.app/) · [**Contacto**](mailto:lksruizg@gmail.com)
+[**▸ RealityBox**](https://github.com/Lucasruizg/RealityBox) · [**Proyectos**](#proyectos) · [**CV**](https://lucas-ashy.vercel.app/) · [**Contacto**](mailto:lksruizg@gmail.com)
 
 Estudio ASIX en La Salle Gràcia y hago la formación dual en Telefónica. He trabajado con routers Teldat, VLAN y montajes en rack.
 
