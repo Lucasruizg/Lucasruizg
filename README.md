@@ -1,33 +1,22 @@
-<img src="assets/portada-recreativa.png" width="760" alt="LUCAS RUIZ · ASIX · Redes y sistemas">
+<img src="assets/marquesina-arcade.svg" width="720" alt="LUCAS RUIZ · ASIX · Redes y sistemas">
 
-<!-- Cuando MISIÓN RED tenga una demo pública verificada, enlázala como primera acción y coloca su cartucho al inicio de Proyectos. Añade PING & PONG y RACK CHECK en cuanto estén publicados en sus repositorios. -->
-[**▸ RealityBox**](https://github.com/Lucasruizg/RealityBox#instalacion) · [**Proyectos**](#proyectos) · [**CV**](https://lucas-ashy.vercel.app/) · [**Contacto**](#contacto)
+[**▸ Proyectos**](#proyectos) · [**CV**](https://github.com/Lucasruizg/CV_LucasRuiz) · [**Contacto**](mailto:lksruizg@gmail.com)
 
-Estudio ASIX y hago mi formación dual en Telefónica.<br>
-Allí he trabajado con routers Teldat, VLAN y montajes en rack.
+Estudio ASIX en La Salle Gràcia y hago la formación dual en Telefónica. He trabajado con routers Teldat, VLAN y montajes en rack.
 
 ## Proyectos
 
-### RealityBox
+[<img src="assets/realitybox.png" width="340" alt="RealityBox · Cartucho arcade">](https://github.com/Lucasruizg/RealityBox)
 
-[![Cartucho de RealityBox con una caja sorpresa ámbar y destellos cian](assets/realitybox.png)](https://github.com/Lucasruizg/RealityBox#instalacion)
+**[RealityBox](https://github.com/Lucasruizg/RealityBox)** · Aplicación Laravel con catálogo, panel de administración y apertura de cajas con saldo ficticio.
 
-Tienda de cajas sorpresa en Laravel. Abre cajas con saldo de prueba y guarda los premios en tu inventario.
+<details>
+<summary>Ver captura del catálogo</summary>
 
-[**Probar RealityBox en local**](https://github.com/Lucasruizg/RealityBox#instalacion) · [Ver captura del catálogo](assets/realitybox-catalogo.png)
+![Catálogo de RealityBox](assets/realitybox-catalogo.png)
 
-### Travel Dashboard
+</details>
 
-[![Cartucho de Travel Dashboard](assets/travel.png)](https://travel-dashboard-amber-phi.vercel.app/)
+[<img src="assets/travel-panel.png" width="340" alt="Travel Dashboard · Captura del panel de viajes">](https://github.com/Lucasruizg/Travel_Dashboard)
 
-Consulta el tiempo en la ciudad que elijas y convierte euros a su moneda local.
-
-[**Abrir Travel Dashboard**](https://travel-dashboard-amber-phi.vercel.app/) · [Ver captura del panel](assets/travel-panel.png)
-
-## Tecnologías
-
-Teldat · VLAN · Linux · Bash · Git · VirtualBox · Windows Server · PHP/Laravel · MySQL
-
-## Contacto
-
-[Escríbeme por correo](mailto:lksruizg@gmail.com)
+**[Travel Dashboard](https://github.com/Lucasruizg/Travel_Dashboard)** · Panel web para consultar el clima y convertir monedas.
