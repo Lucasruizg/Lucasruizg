@@ -1,35 +1,33 @@
-# Lucas Ruiz
+![LUCAS RUIZ · ASIX · Redes y sistemas](assets/portada-recreativa.png)
 
-![LUCAS RUIZ · ASIX · Redes y sistemas. Recreativa pixel art en un centro de datos, entre racks con luces cian y ámbar.](assets/portada-recreativa.png)
+<!-- Cuando MISIÓN RED tenga una demo pública verificada, enlázala como primera acción y coloca su cartucho al inicio de Proyectos. -->
+[**▸ RealityBox**](#realitybox) · [**Proyectos**](#proyectos) · [**CV**](https://lucas-ashy.vercel.app/) · [**Contacto**](#contacto)
 
-Estudio ASIX y hago mi formación dual en Telefónica. Me interesan las redes, la administración de sistemas y la ciberseguridad. Disfruto montando laboratorios con Linux y virtualización para entender cómo funcionan servicios como DNS y DHCP.
+Estudio ASIX y hago mi formación dual en Telefónica.<br>
+Allí he trabajado con routers Teldat, VLAN y montajes en rack.
 
 ## Proyectos
 
-<!-- Cuando MISIÓN RED tenga un enlace público, añade su cartucho destacado justo debajo de este comentario, con portada local, texto alternativo, descripción y enlace. -->
-
 ### RealityBox
 
-![Cartucho de RealityBox con una caja sorpresa ámbar rodeada de destellos cian.](assets/realitybox.png)
+[![Cartucho de RealityBox con una caja sorpresa ámbar y destellos cian](assets/realitybox.png)](https://github.com/Lucasruizg/RealityBox#instalacion)
 
-Tienda de cajas sorpresa hecha con Laravel. Puedes explorar el catálogo, simular aperturas con saldo de demo y guardar las recompensas en tu inventario. Incluye un panel de administración para gestionar los productos.
+Tienda de cajas sorpresa en Laravel. Abre cajas con saldo de prueba y guarda los premios en tu inventario.
 
-[Ver RealityBox en GitHub](https://github.com/Lucasruizg/RealityBox)
+[**Abrir RealityBox y ver cómo probarlo en local**](https://github.com/Lucasruizg/RealityBox#instalacion)
 
-### Otros cartuchos
+### Travel Dashboard
 
-#### CV online
+[![Cartucho de Travel Dashboard](assets/travel.png)](https://travel-dashboard-amber-phi.vercel.app/)
 
-![Cartucho del CV online de Lucas Ruiz.](assets/cv.png)
+Consulta el tiempo en la ciudad que elijas y convierte euros a su moneda local.
 
-Currículum en HTML y CSS, adaptable a móvil y con vista de impresión para exportarlo a PDF.
+[**Abrir Travel Dashboard**](https://travel-dashboard-amber-phi.vercel.app/)
 
-[Ver el repositorio del CV online](https://github.com/Lucasruizg/CV_LucasRuiz)
+## Tecnologías
 
-#### Travel Dashboard
+Teldat · VLAN · Linux · Bash · Git · VirtualBox · Windows Server · PHP/Laravel · MySQL
 
-![Cartucho de Travel Dashboard.](assets/travel.png)
+## Contacto
 
-Panel que consulta el tiempo de una ciudad y convierte euros a su moneda local.
-
-[Ver Travel Dashboard en GitHub](https://github.com/Lucasruizg/Travel_Dashboard)
+[Escríbeme por correo](mailto:lksruizg@gmail.com)
