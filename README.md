@@ -1,73 +1,22 @@
-# 💫 About Me:
-💻 ASIX student focused on Systems, Networking and Cybersecurity  
-🚀 Currently learning Linux, Virtualization and Network Services (DNS, DHCP, HTTPS)  
-🎯 Looking for internships in IT / Systems / Cybersecurity  
-⚡ I enjoy solving real problems and building lab environments  
+<img src="assets/marquesina-arcade.svg" width="720" alt="LUCAS RUIZ · ASIX · Redes y sistemas">
 
----
+[**▸ RealityBox**](https://github.com/Lucasruizg/RealityBox) · [**Proyectos**](#proyectos) · [**CV**](https://lucas-ashy.vercel.app/) · [**Contacto**](mailto:lksruizg@gmail.com)
 
-## 🧠 Current Focus:
-- Linux Servers (Ubuntu Server)
-- Networking (DNS, DHCP, Routing)
-- Cybersecurity basics (HTB Academy)
-- Virtualization (VirtualBox labs)
+Estudio ASIX en La Salle Gràcia y hago la formación dual en Telefónica. He trabajado con routers Teldat, VLAN y montajes en rack.
 
----
+## Proyectos
 
-## ⭐ Featured Projects:
-### 🧑‍💻 Personal CV Website
-📄 A personal portfolio website built with HTML & CSS to showcase my profile and skills.  
-🔗 https://github.com/Lucasruizg/CV_LucasRuiz  
+[<img src="assets/realitybox.png" width="340" alt="RealityBox · Cartucho arcade">](https://github.com/Lucasruizg/RealityBox)
 
----
+**[RealityBox](https://github.com/Lucasruizg/RealityBox)** · Aplicación Laravel con catálogo, panel de administración y apertura de cajas con saldo ficticio.
 
-### 🌍 Travel Dashboard
-📊 Interactive dashboard that displays travel-related data dynamically using JavaScript.  
-🔗 https://github.com/Lucasruizg/Travel_Dashboard  
+<details>
+<summary>Ver captura del catálogo</summary>
 
----
+![Catálogo de RealityBox](assets/realitybox-catalogo.png)
 
-### 🎁 RealityBox
-🎲 Web application simulating mystery boxes with probabilities, rewards system and dynamic logic.  
-🔗 https://github.com/Lucasruizg/RealityBox  
+</details>
 
----
+[<img src="assets/travel-panel.png" width="340" alt="Travel Dashboard · Captura del panel de viajes">](https://github.com/Lucasruizg/Travel_Dashboard)
 
-## 🚀 Projects:
-- 🔧 DNS + DHCP lab (Linux + Windows Server)
-- 🔐 HTTPS server with self-signed certificates
-- 🖥️ System monitoring scripts (Bash)
-- 🌐 Web project (PHP + MySQL)
-
----
-
-## 💻 Tech Stack:
-Linux • Bash • Git • PHP • MySQL • VirtualBox • Windows Server
-
----
-
-## 🌐 Contact:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lksruizg@gmail.com)
-
----
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Lucasruizg&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Lucasruizg&theme=shadow_blue&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasruizg&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=Lucasruizg&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-## ✍️ Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Lucasruizg&icon=5&color=0)](https://visitcount.itsvg.in)
+**[Travel Dashboard](https://github.com/Lucasruizg/Travel_Dashboard)** · Panel web para consultar el clima y convertir monedas.
